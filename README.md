@@ -1,6 +1,6 @@
 # Bob-swinkels DJI-assistant
 
-## How do I install these formulae?
+## How do I install these casks?
 `brew cask install bob-swinkels/dji-assistant/<cask>`
 
 Or `brew tap bob-swinkels/dji-assistant` and then `brew cask install <cask>`.
